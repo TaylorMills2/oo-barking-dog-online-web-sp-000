@@ -16,4 +16,4 @@ fido.name = "Fido"
 fido.name
 
 
-fido.bark
+puts fido.bark
